@@ -1,0 +1,12 @@
+{
+  "name": "monday",
+  "version": "1.0.0",
+  "description": "Import data from Monday.com",
+  "main": "index.js",
+  "author": "Ani",
+  "license": "MIT",
+  "dependencies": {
+    "csv-stringify": "^5.3.0",
+    "request-promise": "^4.2.4"
+  }
+}
